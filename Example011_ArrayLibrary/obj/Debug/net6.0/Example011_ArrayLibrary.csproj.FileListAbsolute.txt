@@ -1,0 +1,15 @@
+D:\courses\C#\Lecture 1\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.csproj.AssemblyReference.cache
+D:\courses\C#\Lecture 1\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\C#\Lecture 1\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.AssemblyInfoInputs.cache
+D:\courses\C#\Lecture 1\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.AssemblyInfo.cs
+D:\courses\C#\Lecture 1\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+D:\courses\C#\Lecture 1\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.exe
+D:\courses\C#\Lecture 1\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.deps.json
+D:\courses\C#\Lecture 1\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.runtimeconfig.json
+D:\courses\C#\Lecture 1\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.dll
+D:\courses\C#\Lecture 1\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.pdb
+D:\courses\C#\Lecture 1\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.dll
+D:\courses\C#\Lecture 1\Example011_ArrayLibrary\obj\Debug\net6.0\refint\Example011_ArrayLibrary.dll
+D:\courses\C#\Lecture 1\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.pdb
+D:\courses\C#\Lecture 1\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.genruntimeconfig.cache
+D:\courses\C#\Lecture 1\Example011_ArrayLibrary\obj\Debug\net6.0\ref\Example011_ArrayLibrary.dll
