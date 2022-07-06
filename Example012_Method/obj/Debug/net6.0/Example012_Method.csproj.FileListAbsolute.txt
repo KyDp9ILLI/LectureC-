@@ -1,0 +1,15 @@
+D:\courses\C#\Lecture 1\Example012_Method\obj\Debug\net6.0\Example012_Method.csproj.AssemblyReference.cache
+D:\courses\C#\Lecture 1\Example012_Method\obj\Debug\net6.0\Example012_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\C#\Lecture 1\Example012_Method\obj\Debug\net6.0\Example012_Method.AssemblyInfoInputs.cache
+D:\courses\C#\Lecture 1\Example012_Method\obj\Debug\net6.0\Example012_Method.AssemblyInfo.cs
+D:\courses\C#\Lecture 1\Example012_Method\obj\Debug\net6.0\Example012_Method.csproj.CoreCompileInputs.cache
+D:\courses\C#\Lecture 1\Example012_Method\bin\Debug\net6.0\Example012_Method.exe
+D:\courses\C#\Lecture 1\Example012_Method\bin\Debug\net6.0\Example012_Method.deps.json
+D:\courses\C#\Lecture 1\Example012_Method\bin\Debug\net6.0\Example012_Method.runtimeconfig.json
+D:\courses\C#\Lecture 1\Example012_Method\bin\Debug\net6.0\Example012_Method.dll
+D:\courses\C#\Lecture 1\Example012_Method\bin\Debug\net6.0\Example012_Method.pdb
+D:\courses\C#\Lecture 1\Example012_Method\obj\Debug\net6.0\Example012_Method.dll
+D:\courses\C#\Lecture 1\Example012_Method\obj\Debug\net6.0\refint\Example012_Method.dll
+D:\courses\C#\Lecture 1\Example012_Method\obj\Debug\net6.0\Example012_Method.pdb
+D:\courses\C#\Lecture 1\Example012_Method\obj\Debug\net6.0\Example012_Method.genruntimeconfig.cache
+D:\courses\C#\Lecture 1\Example012_Method\obj\Debug\net6.0\ref\Example012_Method.dll
