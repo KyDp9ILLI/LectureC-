@@ -1,0 +1,15 @@
+D:\courses\C#\Lecture 1\Example013_Sort\obj\Debug\net6.0\Example013_Sort.csproj.AssemblyReference.cache
+D:\courses\C#\Lecture 1\Example013_Sort\obj\Debug\net6.0\Example013_Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\C#\Lecture 1\Example013_Sort\obj\Debug\net6.0\Example013_Sort.AssemblyInfoInputs.cache
+D:\courses\C#\Lecture 1\Example013_Sort\obj\Debug\net6.0\Example013_Sort.AssemblyInfo.cs
+D:\courses\C#\Lecture 1\Example013_Sort\obj\Debug\net6.0\Example013_Sort.csproj.CoreCompileInputs.cache
+D:\courses\C#\Lecture 1\Example013_Sort\bin\Debug\net6.0\Example013_Sort.exe
+D:\courses\C#\Lecture 1\Example013_Sort\bin\Debug\net6.0\Example013_Sort.deps.json
+D:\courses\C#\Lecture 1\Example013_Sort\bin\Debug\net6.0\Example013_Sort.runtimeconfig.json
+D:\courses\C#\Lecture 1\Example013_Sort\bin\Debug\net6.0\Example013_Sort.dll
+D:\courses\C#\Lecture 1\Example013_Sort\bin\Debug\net6.0\Example013_Sort.pdb
+D:\courses\C#\Lecture 1\Example013_Sort\obj\Debug\net6.0\Example013_Sort.dll
+D:\courses\C#\Lecture 1\Example013_Sort\obj\Debug\net6.0\refint\Example013_Sort.dll
+D:\courses\C#\Lecture 1\Example013_Sort\obj\Debug\net6.0\Example013_Sort.pdb
+D:\courses\C#\Lecture 1\Example013_Sort\obj\Debug\net6.0\Example013_Sort.genruntimeconfig.cache
+D:\courses\C#\Lecture 1\Example013_Sort\obj\Debug\net6.0\ref\Example013_Sort.dll
